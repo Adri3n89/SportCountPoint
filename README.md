@@ -9,7 +9,7 @@ Utilitaire de comptage de point pour un match de Badminton
 
 ## Contribute to the project
 
-Sleep Well is an open source project. Feel free to fork the source and contribute with your own features.
+SportCountPoint is an open source project. Feel free to fork the source and contribute with your own features.
 
 ## Authors
 
